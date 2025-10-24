@@ -44,7 +44,7 @@ const Home = () => {
           <h3 className="text-lg font-semibold text-gray-800 mb-4">Contacto</h3>
           <form className="flex flex-col items-center space-y-4">
             <input
-              type="text"
+              type="text"git init
               placeholder="Nombre"
               className="border border-gray-400 rounded-md px-4 py-2 w-72 focus:outline-none focus:ring-2 focus:ring-orange-500"
             />
